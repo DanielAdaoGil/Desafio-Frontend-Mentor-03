@@ -11,7 +11,7 @@ body{
 
 main{
     background-color: hsl(0, 0%, 12%);
-    width: 50%;
+    width: 20rem;
     height: auto;
     padding: 2rem;
     color: hsl(0, 0%, 100%);
@@ -53,7 +53,7 @@ main li{
     background-color: hsl(0, 0%, 20%);
     font-family: Inter-Bold;
     font-size: 0.8rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.8rem;
     padding: 0.8rem;
     border-radius: 0.5rem;
 }
